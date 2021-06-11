@@ -1,0 +1,12 @@
+{
+    "name": "koen/mockapi-php-client",
+    "description": "Academic library to retrieve reviews using MockAPI.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Koen de Bont",
+            "email": "koen.de.bont@maxserv.com"
+        }
+    ],
+    "require": {}
+}
